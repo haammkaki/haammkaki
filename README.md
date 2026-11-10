@@ -1,7 +1,7 @@
 <!-- haammkaki / personal field notes -->
 
 <div align="left">
-  <img src="assets/field-notes.png" alt="haammkaki — ideas in progress, illustrated personal field notes" width="100%" />
+ <img src="field-notes.png" alt="haammkaki — ideas in progress, illustrated personal field notes" width="100%" />
 </div>
 
 ### A place to make sense of things.
