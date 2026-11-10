@@ -1,7 +1,7 @@
 <!-- haammkaki / personal field notes -->
 
 <div align="left">
-<img src="haammkaki-banner-animated.gif" alt="haammkaki — animated pixel-art banner" width="100%" /></div>
+<img src="haammkaki-banner-animated.gif" " width="100%" /></div>
 
 ### A place to make sense of things.
 
